@@ -1,5 +1,5 @@
 ---
-title: "AngieRuiz_A1"
+title: "Angie_Ruiz_A1"
 author: "Angie Ruiz"
 date: "02/19/21"
 output: html_document
@@ -314,7 +314,7 @@ pge_comm_cov_chart <-
   labs(
     x = "Date",
     y = "kBTU",
-    title = "PG&E Territory Monthly Commercial Electrcity and Gas Usage in 2019-2020",
+    title = "PG&E Territory Monthly Commercial Electricity and Gas Usage in 2019-2020",
     fill = "Energy Type"
   ) 
 
@@ -337,7 +337,7 @@ pge_res_cov_chart <-
   labs(
     x = "Date",
     y = "kBTU",
-    title = "PG&E Territory Monthly Residential Electrcity and Gas Usage in 2019-2020",
+    title = "PG&E Territory Monthly Residential Electricity and Gas Usage in 2019-2020",
     fill = "Energy Type"
   ) 
 
